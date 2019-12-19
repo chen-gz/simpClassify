@@ -1,3 +1,8 @@
 /venv/
 /log.log
-/classify.csv
+/classi1fy.csv
+/main.spec
+/dist/
+/build/
+.idea/
+/__pycache__/
