@@ -1,4 +1,14 @@
 /venv/
 /log.log
+<<<<<<< HEAD
 /classify.csv
 /__pycache__/
+=======
+/classi1fy.csv
+/main.spec
+/dist/
+/build/
+.idea/*
+/__pycache__/
+*.spec
+>>>>>>> ca2befaeeffef32f265a97425778190921051140
